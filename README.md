@@ -1,2 +1,6 @@
 # my-first-repo
-this is for my pbp 2024 class yay
+Name: Catherine Aurellia
+
+NPM: 2306256261
+
+Class: PBP KKI
